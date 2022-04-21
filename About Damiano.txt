@@ -1,0 +1,10 @@
+Hi!
+Here we are !
+Let me introduce ! 
+My name is Domenico, but my family and friends call me by my second name Damiano.
+I have 2 daughters and I'm living in Vétroz (Valais). I like walking in mountains and cycling.
+I worked for more than 20 years in a pharmaceutical company as an operator, programmer and project manager.
+I created interfaces between analytical devices and applications on mainframes. 
+During my studies I learned the C++ language mainly and some others that are not used anymore.
+Today I work in an IT company that creates applications for municipalities integrated with archiving software. In this company, I worked for 7 years as manager for the infrastructure unit. 
+Now I prepare, plan and follow up the installations for the software installation team.
