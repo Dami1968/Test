@@ -6,5 +6,14 @@ I have 2 daughters and I'm living in Vétroz (Valais). I like walking in mountai
 I worked for more than 20 years in a pharmaceutical company as an operator, programmer and project manager.
 I created interfaces between analytical devices and applications on mainframes. 
 During my studies I learned the C++ language mainly and some others that are not used anymore.
-Today I work in an IT company that creates applications for municipalities integrated with archiving software. In this company, I worked for 7 years as manager for the infrastructure unit. 
+Today I work in an IT company that creates applications for municipalities integrated with archiving software. 
+In this company, I worked for 7 years as manager for the infrastructure unit. 
 Now I prepare, plan and follow up the installations for the software installation team.
+
+I have always been passionate about data processing (acquisition, validation, compilation) by creating numerous reports, 
+statistics and dashboards. Data analysis has always allowed me to improve and automate the processes of the company I worked for during 20 years.
+Today, data is an important digital resource that has been collected by companies for many years, but unfortunately it is not exploited! 
+Now, I don't find motivation in my job anymore, that's why I decided to follow several courses in order to improve myself 
+in new fields such as machine learning, data science and artificial intelligence which are today fields 
+where I will certainly find new interests and new work opportunities.
+
